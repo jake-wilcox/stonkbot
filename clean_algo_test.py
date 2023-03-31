@@ -1,5 +1,6 @@
 import yfinance as yf
 #testing git from new laptop
+#testing git from new laptop 2
 import pandas as pd
 import statistics
 import time
